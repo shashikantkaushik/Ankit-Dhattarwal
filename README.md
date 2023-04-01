@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-dhattarwal&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-dhattarwal" /> </p>
 
-- 🌱 I’m currently learning Data Science **Data Science Master**
+- 🌱 I’m Currently Learning Data Science **Data Science Master**
 
 - 🤝 I’m currently working on [Homzy(Home Service App)](https://github.com/Ankit-Dhattarwal/home_service_admin_app)
 
 - 📫 How to reach me **er.ankitdhattarwal@gmail.com**
 
-- ⚡ Fun fact **Java Programmer wear glasses because they can't C 😅**
+- ⚡ Fun fact **Java Programmer wear glasses because they can't C 😅** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit dhattarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit dhattarwal" height="30" width="40" /></a>
-<a href="https://fb.com/ankit dhattarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit dhattarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit._.dhattarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit._.dhattarwal" height="30" width="40" /></a>
+<a href="https://fb.com/ankit dhattarwal" target="blank"><img align="center" src="" alt="ankit dhattarwal" height="30" width="40" /></a>
+<a href="https://instagram.com/ankit._.dhattarwal" target="blank"><img align="center" src="" alt="ankit._.dhattarwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
